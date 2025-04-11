@@ -4,4 +4,9 @@ public class Main {
         System.out.println("dima wydad");
 
     }
-}
+    public static boolean mehdiKe3ku3 (){
+        return true;
+        }
+
+    }
+
